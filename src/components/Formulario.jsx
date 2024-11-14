@@ -12,14 +12,14 @@ const Formulario = () => {
 
     const validacion = () => {
         if(correo === correoValido && password === passwordValido) {
-            navigate('/biblioteca');
+            alert('ÉXITO!')
         } else {
             setError(true);
         }
     }
 
     const registrar = () => {
-        navigate('/registro');
+        navigate('/registro')
     }
 
     return (
