@@ -15,6 +15,6 @@ const App = () => {
             </Router>
         </AuthProvider>
     );
-};
+  };
 
 export default App;
