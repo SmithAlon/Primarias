@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+        {
+            "Matricula": "1001",
+            "Nombre": "Alonso Smith",
+            "Contraseña": "1234",
+            "Tipo": "Administrador"
+        },
+        {
+            "Matricula": "1002",
+            "Nombre": "Juan Perez",
+            "Contraseña": "1234",
+            "Tipo": "Director"
+        },
+        {
+            "Matricula": "1003",
+            "Nombre": "Pedro Martinez",
+            "Contraseña": "1234",
+            "Tipo": "Secretario"
+        },
+        {
+            "Matricula": "1004",
+            "Nombre": "Maria Lopez",
+            "Contraseña": "1234",
+            "Tipo": "Maestro"
+        },
+        {
+            "Matricula": "1005",
+            "Nombre": "Ana Garcia",
+            "Contraseña": "1234",
+            "Tipo": "Alumno"
+        }
+    ]
+}
