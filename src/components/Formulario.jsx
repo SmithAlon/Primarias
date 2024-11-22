@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import usuarios from "../Usuarios.json";
+import usuarios from "./public/Usuarios.json";
 import { useAuth } from "../AuthContext.jsx";
 
 const Formulario = () => {

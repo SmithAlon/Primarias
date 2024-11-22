@@ -1,0 +1,13 @@
+{
+    "Instituciones": [
+        {
+            "id": 1,
+            "nombre": "Primaria Margarita Maza de Juárez",
+            "siglas": "PMMJ",
+            "direccion": "Morenita Mía, San Nicolás de los Garza, Nuevo León",
+            "telefono": "2550-0000",
+            "correo": "correoMargarita@gmail.com",
+            "logo": "https://zona71sector5.wordpress.com/wp-content/uploads/2014/06/escudo2.jpg"
+        }
+    ]
+}
