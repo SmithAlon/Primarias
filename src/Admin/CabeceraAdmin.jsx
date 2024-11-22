@@ -12,7 +12,7 @@ const CabeceraAdmin = () => {
   }, []);
 
   return (
-    <header className='flex justify-between items-center bg-sky-500 p-4'>
+    <header className='flex justify-between items-center bg-[#658cc2] p-4'>
       <div className='flex flex-col items-center'>
         <img src='https://via.placeholder.com/150' alt='Logo' className='rounded-full h-10 w-10' />
         <p className='font-bold'>{userName}</p>
